@@ -1,0 +1,5 @@
+https://tagchatter.herokuapp.com/docs/#/message/get_messages_parrots_count
+
+https://github.com/tagview/tagchatter
+
+https://www.figma.com/file/Zhyvatv2GVFm4UcKQlRE4Szs/tagchatter?node-id=0%3A1
